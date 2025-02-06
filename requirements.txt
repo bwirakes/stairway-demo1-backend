@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+requests
+google-generativeai
+celery
+redis
+httpx
+python-dotenv
+jsonschema
+json5

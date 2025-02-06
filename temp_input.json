@@ -1,0 +1,469 @@
+{
+  "Account Information": {
+    "form_name": "FORM 1099 COMPOSITE",
+    "account_holder": "BRANDON RICHARD WIRAKESUMA",
+    "account_number": "3245-2767",
+    "financial_institution": "CHARLES SCHWAB & CO., INC."
+  },
+  "Account Positions": [
+    {
+      "cusip": "035710839",
+      "ticker": "NLY",
+      "description": "ANNALY CAPITAL MGMT REIT",
+      "date_acquired": "2023-01-30",
+      "quantity": 2,
+      "cost_basis": 46,
+      "market_value": 38
+    },
+    {
+      "cusip": "035710839",
+      "ticker": "NLY",
+      "description": "ANNALY CAPITAL MGMT REIT",
+      "date_acquired": "2023-01-30",
+      "quantity": 10,
+      "cost_basis": 230,
+      "market_value": 190
+    },
+    {
+      "cusip": "035710839",
+      "ticker": "NLY",
+      "description": "ANNALY CAPITAL MGMT REIT",
+      "date_acquired": "2023-01-30",
+      "quantity": 12,
+      "cost_basis": 322.8,
+      "market_value": 228
+    },
+    {
+      "cusip": "035710839",
+      "ticker": "NLY",
+      "description": "ANNALY CAPITAL MGMT REIT",
+      "date_acquired": "2023-01-30",
+      "quantity": 18,
+      "cost_basis": 414,
+      "market_value": 342
+    },
+    {
+      "cusip": "035710839",
+      "ticker": "NLY",
+      "description": "ANNALY CAPITAL MGMT REIT",
+      "date_acquired": "2023-01-30",
+      "quantity": 18,
+      "cost_basis": 484.2,
+      "market_value": 342
+    },
+    {
+      "cusip": "035710839",
+      "ticker": "NLY",
+      "description": "ANNALY CAPITAL MGMT REIT",
+      "date_acquired": "2023-02-09",
+      "quantity": 10,
+      "cost_basis": 229,
+      "market_value": 190
+    },
+    {
+      "cusip": "09260D107",
+      "ticker": "BX",
+      "description": "BLACKSTONE INC",
+      "date_acquired": "2022-12-15",
+      "quantity": 15,
+      "cost_basis": 1183.06,
+      "market_value": 1274.99
+    },
+    {
+      "cusip": "063679534",
+      "ticker": "FNGU",
+      "description": "BNK OF MON MCRSCT FNG IDX 3X LEV ETN",
+      "date_acquired": "2023-10-12",
+      "quantity": 5,
+      "cost_basis": 889.38,
+      "market_value": 650
+    },
+    {
+      "cusip": "063679534",
+      "ticker": "FNGU",
+      "description": "BNK OF MON MCRSCT FNG IDX 3X LEV ETN",
+      "date_acquired": "2023-10-24",
+      "quantity": 5,
+      "cost_basis": 766.7,
+      "market_value": 649.99
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "CCRV 07/21/2023 22.00 C",
+      "date_acquired": "2023-01-12",
+      "quantity": 1,
+      "cost_basis": 280.65,
+      "market_value": 0
+    },
+    {
+      "cusip": "25459W862",
+      "ticker": null,
+      "description": "DIREXION DAILY S&P 500 BULL 3X ETF",
+      "date_acquired": "2023-06-13",
+      "quantity": 10,
+      "cost_basis": 852,
+      "market_value": 809.09
+    },
+    {
+      "cusip": "25459W862",
+      "ticker": null,
+      "description": "DIREXION DAILY S&P 500 BULL 3X ETF",
+      "date_acquired": "2023-06-16",
+      "quantity": 5,
+      "cost_basis": 446.5,
+      "market_value": 404.55
+    },
+    {
+      "cusip": "25459W862",
+      "ticker": null,
+      "description": "DIREXION DAILY S&P 500 BULL 3X ETF",
+      "date_acquired": "2023-06-29",
+      "quantity": 0.04,
+      "cost_basis": 3.88,
+      "market_value": 3.64
+    },
+    {
+      "cusip": "25459W862",
+      "ticker": null,
+      "description": "DIREXION DAILY S&P 500 BULL 3X ETF",
+      "date_acquired": "2023-07-13",
+      "quantity": 9.95,
+      "cost_basis": 917.35,
+      "market_value": 805.45
+    },
+    {
+      "cusip": "25459W847",
+      "ticker": null,
+      "description": "DIREXION DAILY SMALL CAPBULL 3X ETF",
+      "date_acquired": "2023-06-14",
+      "quantity": 15,
+      "cost_basis": 547.5,
+      "market_value": 489.89
+    },
+    {
+      "cusip": "25459W847",
+      "ticker": null,
+      "description": "DIREXION DAILY SMALL CAPBULL 3X ETF",
+      "date_acquired": "2023-07-19",
+      "quantity": 20,
+      "cost_basis": 800,
+      "market_value": 653.19
+    },
+    {
+      "cusip": "25459W847",
+      "ticker": null,
+      "description": "DIREXION DAILY SMALL CAPBULL 3X ETF",
+      "date_acquired": "2023-08-01",
+      "quantity": 10,
+      "cost_basis": 412.8,
+      "market_value": 326.6
+    },
+    {
+      "cusip": "25459W847",
+      "ticker": null,
+      "description": "DIREXION DAILY SMALL CAPBULL 3X ETF",
+      "date_acquired": "2023-08-01",
+      "quantity": 20,
+      "cost_basis": 800,
+      "market_value": 653.19
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "GOOG 04/21/2023 100.00 C",
+      "date_acquired": "2023-01-24",
+      "quantity": 3,
+      "cost_basis": 1891.99,
+      "market_value": 972.99
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "GOOG 04/21/2023 95.00 \u0421",
+      "date_acquired": "2023-01-18",
+      "quantity": 3,
+      "cost_basis": 1618.99,
+      "market_value": 2847.94
+    },
+    {
+      "cusip": "46429B671",
+      "ticker": "MCHI",
+      "description": "ISHARES MSCI CHINA ETF",
+      "date_acquired": "2023-01-10",
+      "quantity": 30,
+      "cost_basis": 1575,
+      "market_value": 1440.29
+    },
+    {
+      "cusip": "30303M102",
+      "ticker": "META",
+      "description": "META PLATFORMS INC CLASS A",
+      "date_acquired": "2023-01-30",
+      "quantity": 10,
+      "cost_basis": 1492.6,
+      "market_value": 1719.96
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "\u039c\u0395\u03a4\u0391 04/21/2023 150.00 C",
+      "date_acquired": "2023-01-30",
+      "quantity": 1,
+      "cost_basis": 1312.65,
+      "market_value": 3719.26
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "\u039c\u0395\u03a4\u0391 04/21/2023 150.00 C",
+      "date_acquired": "2023-01-30",
+      "quantity": 1,
+      "cost_basis": 1341.65,
+      "market_value": 3719.26
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "\u039c\u0395\u03a4\u0391 04/21/2023 165.00 C",
+      "date_acquired": "2023-02-03",
+      "quantity": "1.00$",
+      "cost_basis": 2465.66,
+      "market_value": 684.33
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "\u039c\u0395\u03a4\u0391 04/21/2023 165.00 C",
+      "date_acquired": "2023-02-03",
+      "quantity": "1.00$",
+      "cost_basis": 2465.65,
+      "market_value": 695.33
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "\u039c\u0395\u03a4\u0391 05/19/2023 200.00 \u0421",
+      "date_acquired": "2023-03-21",
+      "quantity": 1,
+      "cost_basis": 1639.66,
+      "market_value": 2399.32
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "\u039c\u0395\u03a4\u0391 05/19/2023 215.00 \u0421",
+      "date_acquired": "2023-04-10",
+      "quantity": "1.00$",
+      "cost_basis": 1200.66,
+      "market_value": 984.33
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "MSFT 03/17/2023 245.00 C",
+      "date_acquired": "2023-01-23",
+      "quantity": 1,
+      "cost_basis": 949.65,
+      "market_value": 1729.31
+    },
+    {
+      "cusip": null,
+      "ticker": null,
+      "description": "MSFT 03/17/2023 260.00 C",
+      "date_acquired": "2023-02-07",
+      "quantity": "1.00$",
+      "cost_basis": 780.65,
+      "market_value": 369.34
+    },
+    {
+      "cusip": "74347G432",
+      "ticker": null,
+      "description": "PROSHARES ULTRAPRO SHORTQQQ ETF",
+      "date_acquired": "2023-08-18",
+      "quantity": 40,
+      "cost_basis": 843,
+      "market_value": 783.58
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-04-26",
+      "quantity": 20,
+      "cost_basis": 514.6,
+      "market_value": 729.59
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-05-18",
+      "quantity": 20,
+      "cost_basis": 606.6,
+      "market_value": 729.59
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-05-24",
+      "quantity": 30,
+      "cost_basis": 900,
+      "market_value": 1094.39
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-05-30",
+      "quantity": 30,
+      "cost_basis": 1093.5,
+      "market_value": 1094.39
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-06-12",
+      "quantity": 20,
+      "cost_basis": 740,
+      "market_value": 729.59
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-06-13",
+      "quantity": 10,
+      "cost_basis": 388.2,
+      "market_value": 364.8
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-06-29",
+      "quantity": 0.42,
+      "cost_basis": 16.59,
+      "market_value": 15.39
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-07-10",
+      "quantity": 30,
+      "cost_basis": 1170,
+      "market_value": 1094.39
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-07-26",
+      "quantity": 20,
+      "cost_basis": 860,
+      "market_value": 729.59
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-07-31",
+      "quantity": 10,
+      "cost_basis": 450,
+      "market_value": 364.8
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-08-01",
+      "quantity": 10,
+      "cost_basis": 450,
+      "market_value": 364.8
+    },
+    {
+      "cusip": "74347X831",
+      "ticker": null,
+      "description": "PSHR ULTRAPRO ETF DV",
+      "date_acquired": "2023-08-03",
+      "quantity": 9.57,
+      "cost_basis": 397.49,
+      "market_value": 349.39
+    },
+    {
+      "cusip": "81141R100",
+      "ticker": "SE",
+      "description": "SEA LTD FUNSPONSORED ADR",
+      "date_acquired": "2023-05-15",
+      "quantity": 12,
+      "cost_basis": 1028.52,
+      "market_value": 456.76
+    },
+    {
+      "cusip": "88160R101",
+      "ticker": null,
+      "description": "TESLA INC",
+      "date_acquired": "2023-09-12",
+      "quantity": 5,
+      "cost_basis": 1335,
+      "market_value": 1010.54
+    },
+    {
+      "cusip": "88160R101",
+      "ticker": null,
+      "description": "TESLA INC",
+      "date_acquired": "2023-10-11",
+      "quantity": 2,
+      "cost_basis": 529.34,
+      "market_value": 404.22
+    },
+    {
+      "cusip": "88160R101",
+      "ticker": null,
+      "description": "TESLA INC",
+      "date_acquired": "2023-10-18",
+      "quantity": 5,
+      "cost_basis": 1200,
+      "market_value": 1010.54
+    },
+    {
+      "cusip": "89677Q107",
+      "ticker": null,
+      "description": "TRIP COM GROUP LTD FSPONSORED ADR",
+      "date_acquired": "2023-06-06",
+      "quantity": 1,
+      "cost_basis": 34.79,
+      "market_value": 38.3
+    },
+    {
+      "cusip": "90353T100",
+      "ticker": null,
+      "description": "UBER TECHNOLOGIES INC",
+      "date_acquired": "2023-07-31",
+      "quantity": 20,
+      "cost_basis": 973.2,
+      "market_value": 1027.99
+    },
+    {
+      "cusip": "91282CAK7",
+      "ticker": null,
+      "description": "US TREASU NT 0.125%09XXX**MATURED**",
+      "date_acquired": "2022-12-02",
+      "quantity": 2000,
+      "cost_basis": 1931.56,
+      "market_value": 2000
+    },
+    {
+      "cusip": "91282CDMO",
+      "ticker": null,
+      "description": "US TREASUR NT 0.5%11XXX**MATURED**",
+      "date_acquired": "2022-12-02",
+      "quantity": 2000,
+      "cost_basis": 1920.46,
+      "market_value": 2000
+    }
+  ]
+}
